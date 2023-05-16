@@ -1,0 +1,101 @@
+BMI,BMI_cat,Age,Age_cat,Sex,BG,Sym1,Sym2,Symptoms
+17.60950272,1,59,3,M,A+,Asymptomatic,,No
+19.35487748,2,28,2,M,B+,tiredness, sore throat,Yes
+19.35487748,2,30,3,M,A+,fever,,Yes
+19.35487748,2,32,3,M,B+,Asymptomatic, Contracted with positive patient,No
+19.37503881,2,38,3,M,B+,Asymptomatic,,No
+19.52636816,2,35,3,M,A+,Asymptomatic, Contracted with positive patient,No
+19.67777379,2,16,1,M,O+,Asymptomatic, Contracted with positive patient,No
+19.67777379,2,18,1,F,A+,Asymptomatic,,No
+20.03738571,2,35,3,M,B+,Asymptomatic, Contracted with positive patient,No
+20.11249703,2,50,3,M,B+,dry cough,,Yes
+20.1775552,2,24,2,M,B+,Asymptomatic, Contracted with positive patient,No
+20.1775552,2,28,2,M,B+,Asymptomatic,,No
+20.1775552,2,35,3,M,B+,Asymptomic ,,No
+20.1775552,2,54,3,M,O+,Asymptomatic,,No
+20.18233209,2,5,1,M,AB+,fever,,Yes
+20.54441984,2,43,3,F,B+,dry cough,,Yes
+20.63824152,2,20,2,M,A+,Asymptomatic, Contracted with positive patient,No
+20.63824152,2,25,2,F,AB+,dry cough, difficulty breathing,Yes
+20.73428647,2,24,2,M,A+,fever, dry cough,Yes
+20.78291359,2,21,2,M,A+,dry cough, tiredness,Yes
+20.81302997,2,55,3,M,A+,Asymptomatic,,No
+21.19144869,2,27,2,M,B+,Asymptomatic, Contracted with positive patient,No
+21.27814912,2,29,2,M,A+,Asymptomatic, Contracted with positive patient (doing job in health),No
+21.47900498,2,50,3,M,AB-,fever, sore throat,Yes
+21.5278209,2,60,3,M,B+,dry cough,,Yes
+21.81268809,2,55,3,M,A+,Asymptomatic, Contracted with positive patient,No
+21.94828615,2,38,3,M,O+,fever,,Yes
+22.01187841,2,21,2,M,B+,Asymptomatic, Contracted with positive patient,No
+22.01187841,2,29,2,F,A+,fever, dry cough,Yes
+22.01187841,2,55,3,M,B-,fever,,Yes
+22.11657223,2,30,3,M,B+,Asymptomatic, Contracted with positive patient,No
+22.17746378,2,35,3,F,B+,dry cough, sore throat,Yes
+22.17746378,2,45,3,M,A+,Asymptomatic, Contracted with positive patient,No
+22.2600597,2,26,2,M,O+,fever, dry cough,Yes
+22.32004471,2,17,1,M,B+,Asymptomatic, Contracted with positive patient,No
+22.32514759,2,55,3,F,O+,Asymptomatic, Contracted with positive patient,No
+22.44379634,2,27,2,F,AB+,Asymptomatic, Contracted with positive patient,No
+22.7051236,2,45,3,F,O-,Asymptomatic, Contracted with positive patient,No
+22.77555581,2,59,3,M,A+,Asymptomatic, Contracted with positive patient,No
+23.12906377,2,27,2,M,A+,Asymptomatic, Contracted with positive patient (doing job in health centre),No
+23.12906377,2,32,3,M,O+,Asymptomatic,,No
+23.12906377,2,38,3,M,A-,Asymptomatic, Contracted with positive patient,No
+23.12906377,2,100,3,F,B+,dry cough, tiredness,Yes
+23.13437469,2,13,1,F,AB+,dry cough,,Yes
+23.48489552,2,23,2,M,A+,Asymptomatic,,No
+23.48489552,2,31,3,M,B+,dry cough,,Yes
+23.48489552,2,36,3,M,A+,Asymptomatic, Contracted with positive patient,No
+23.54605411,2,18,1,M,A+,Asymptomatic ,,No
+23.68060299,2,29,2,M,AB+,dry cough,,Yes
+23.68060299,2,30,3,M,O+,Asymptomatic, Contracted with positive patient (Certain interval check in ),No
+23.72453731,2,21,2,M,A+,dry cough, difficulty breathing,Yes
+23.84037978,2,32,3,M,O+,sore throat,,Yes
+23.84037978,2,38,3,M,A+,Asymptomatic, Contracted with positive patient (doing job in Health),No
+23.84037978,2,60,3,M,B+,dry cough, tiredness,Yes
+23.84072727,2,30,3,M,AB+,fever, dry cough,Yes
+23.84620161,2,28,2,M,A+,dry cough,,Yes
+23.84620161,2,39,3,M,A+,fever, tiredness,Yes
+24.09162565,2,28,2,M,O+,Asymptomatic, Contracted with positive patient,No
+24.09162565,2,44,3,M,A+,Asymptomatic,,No
+24.13499643,2,31,3,M,O+,Asymptomatic, Contracted with positive patient,No
+24.17024221,2,27,2,M,A+,Asymptomatic, Contracted with positive patient (Doing job in Health centre),No
+24.19359685,2,28,2,M,B+,Asymptomatic, Contracted with positive patient,No
+24.19359685,2,32,3,M,B+,Asymptomatic, Contracted with positive patient (doing job in health centre),No
+24.19655902,2,8,1,F,O-,Asymptomatic, Contracted with positive patient (doing job in Health ),No
+24.19655902,2,27,2,M,AB+,Asymptomatic,,No
+24.21306625,2,20,2,M,B+,fever,,Yes
+24.21306625,2,21,2,F,A+,Asymptomatic, Contracted with positive patient,No
+24.805413,2,30,3,M,A-,Asymptomatic, Contracted positive patient,No
+24.90822252,1,7,1,M,A+,Asymptomatic, Contracted with positive patient (doing job in health),No
+24.90822252,1,70,3,M,B+,Asymptomatic, Contracted with positive patient,No
+24.93541333,1,22,2,M,O+,dry cough, tiredness,Yes
+24.94679553,1,20,2,M,O-,dry cough, tiredness,Yes
+25.01412404,1,27,2,M,A-,fever, dry cough,Yes
+25.31366017,1,23,2,M,A+,fever,,Yes
+25.31366017,1,30,3,M,AB+,fever, difficulty breathing,Yes
+25.35405469,1,13,1,F,A+,aches and pains, difficulty breathing,Yes
+25.35405469,1,19,2,F,AB+,Asymptomatic, Contracted with positive patient,No
+25.35405469,1,28,2,M,A+,fever,,Yes
+25.35405469,1,30,3,M,A+,fever, headache,Yes
+25.47582957,1,29,2,M,A+,dry cough, sore throat,Yes
+25.61988602,1,32,3,M,B+,Asymptomatic, Contracted positive patient,No
+25.68052481,1,51,3,M,A+,Asymptomatic,,No
+25.83338508,1,90,3,M,AB+,dry cough, difficulty breathing,Yes
+25.89668809,1,32,3,M,B+,Asymptomatic, Contracted with positive patient,No
+26.24197726,1,21,2,F,A+,Asymptomatic, Contracted with positive patient,No
+26.33154952,1,30,3,M,O+,Asymptomatic, Contracted with positive patient,No
+26.48931087,1,43,3,M,B+,Asymptomatic,,No
+26.58726643,1,55,3,M,A+,Asymptomatic,,No
+26.88780895,1,25,2,M,B-,Asymptomatic, Contracted with positive patient,No
+26.90977612,1,55,3,M,B+,Asymptcmatic,,No
+26.93255561,1,24,2,F,O+,Asymptomatic,,No
+27.75487652,1,88,3,M,O+,Asymptomatic,,No
+27.99837575,1,21,2,M,O+,Asymptomatic, Contracted with positive patient,No
+27.99837575,1,49,3,M,AB+,fever,,Yes
+28.3814045,1,30,3,M,AB+,Asymptomatic, Contracted with positive patient,No
+29.13824195,1,16,1,F,B+,Asymptomatic, Contracted with positive patient ,No
+29.51666068,1,22,2,F,B+,Asymptomatic,,No
+30.08290049,1,35,3,M,O+,fever, headache,Yes
+38.55237312,1,43,3,M,AB+,Asymptomatic, Contracted with positive patient,No
+67.27444031,1,15,1,F,,Asymptomatic,,No
