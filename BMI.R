@@ -25,7 +25,7 @@ require(car)
 
 
 
-setwd('E:\\BMI')
+setwd('E:\\ResearchProject\\Aminul\\COVID-19 BMI\\COVID-19 BMI Factors')
 
 bmidata <- read.csv("Final.csv")
 
@@ -218,7 +218,8 @@ require(reshape2)
 bmidata$exercise
 
 logit1 <- (glm(BMI_cat ~ factor(Age_cat) + bloodgroup + education + relevel(factor(visitedearlier), ref = "Workplace") +
-                 relevel(factor(Fruits), ref = "Very frequently") + relevel(factor(exercise), ref = "Always")  + symptoms_cat + contacted, data=bmidata, na.action = na.omit))
+                 relevel(factor(Fruits), ref = "Frequently") + relevel(factor(exercise), ref = "Never")  + 
+                 symptoms_cat + relevel (factor(contacted ), ref = "Yes"), data=bmidata, na.action = na.omit))
 summary(logit1) #sig
 
 model.or <- cbind(exp(coef(logit1)),exp(confint(logit1)))
@@ -241,7 +242,7 @@ perf <- performance(pred, measure = "tpr", x.measure = "fpr")
 auc.tmp <- performance(pred,"auc"); auc <- as.numeric(auc.tmp@y.values)
 auc
 
-#roc curve
+  #roc curve
 
 plot(perf, main="ROC Curve ", xlab="1 - specificity",  ylab="sensitivity")  
 grid()
